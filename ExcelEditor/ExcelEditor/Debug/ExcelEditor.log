@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Administrator\source\repos\ExcelEditor\ExcelEditor\gen_excel.h(12,1): warning C4005: “Check_Buffer”: 宏重定义
+C:\Users\Administrator\source\repos\ExcelEditor\ExcelEditor\gen_excel.h(10): message : 参见“Check_Buffer”的前一个定义
+C:\Users\Administrator\source\repos\ExcelEditor\ExcelEditor\main.cpp(8,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  ExcelEditor.vcxproj -> C:\Users\Administrator\source\repos\ExcelEditor\Debug\ExcelEditor.exe
