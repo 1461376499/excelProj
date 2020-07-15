@@ -1,0 +1,517 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author></o:Author>
+  <o:LastAuthor></o:LastAuthor>
+  <o:Created></o:Created>
+  <o:LastSaved></o:LastSaved>
+  <o:Company></o:Company>
+  <o:Version></o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:常规;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	white-space:normal;}
+.xl25
+	{mso-style-parent:style0;
+	color:black;
+	font-size:9.0pt;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#CCFFCC;
+	mso-pattern:auto none;
+	white-space:nowrap;
+	mso-text-control:shrinktofit;}
+.xl26
+	{mso-style-parent:style0;
+	color:black;
+	font-size:9.0pt;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#CCFFFF;
+	mso-pattern:auto none;
+	white-space:nowrap;
+	mso-text-control:shrinktofit;}
+.xl27
+	{mso-style-parent:style0;
+	color:black;
+	font-size:9.0pt;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#FF99CC;
+	mso-pattern:auto none;
+	white-space:nowrap;
+	mso-text-control:shrinktofit;}
+.xl28
+	{mso-style-parent:style0;
+	color:black;
+	font-size:9.0pt;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:2.0pt double black;
+	border-left:none;
+	background:#CCFFCC;
+	mso-pattern:auto none;
+	white-space:nowrap;
+	mso-text-control:shrinktofit;}
+.xl29
+	{mso-style-parent:style0;
+	color:black;
+	font-size:9.0pt;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:2.0pt double black;
+	border-left:none;
+	background:#FFCC99;
+	mso-pattern:auto none;
+	white-space:nowrap;
+	mso-text-control:shrinktofit;}
+.xl30
+	{mso-style-parent:style0;
+	color:white;
+	font-size:16.0pt;
+	font-weight:700;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#333399;
+	mso-pattern:auto none;
+	white-space:nowrap;
+	mso-text-control:shrinktofit;}
+.xl31
+	{mso-style-parent:style0;
+	color:white;
+	font-size:16.0pt;
+	font-weight:700;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:#333399;
+	mso-pattern:auto none;
+	white-space:nowrap;
+	mso-text-control:shrinktofit;}
+.xl32
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-weight:700;
+	text-align:center;
+	border-top:.5pt solid black;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl33
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-weight:700;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid black;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl34
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-weight:700;
+	text-align:center;
+	border-top:.5pt solid black;
+	border-right:none;
+	border-bottom:.5pt solid black;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl35
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-weight:700;
+	text-align:center;
+	border-top:.5pt solid black;
+	border-right:none;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	white-space:normal;}
+.xl36
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-weight:700;
+	text-align:center;
+	border-top:.5pt solid black;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	white-space:normal;}
+.xl37
+	{mso-style-parent:style0;
+	font-size:11.0pt;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl38
+	{mso-style-parent:style0;
+	font-size:11.0pt;
+	text-align:center;
+	border-top:.5pt solid black;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl39
+	{mso-style-parent:style0;
+	font-size:11.0pt;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:2.0pt double black;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-char-type:none;
+	display:none;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet1</x:Name>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>285</x:DefaultRowHeight>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>22</x:ActiveRow>
+       <x:ActiveCol>11</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet2</x:Name>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>285</x:DefaultRowHeight>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet3</x:Name>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>285</x:DefaultRowHeight>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>12690</x:WindowHeight>
+  <x:WindowWidth>18195</x:WindowWidth>
+  <x:WindowTopX>480</x:WindowTopX>
+  <x:WindowTopY>60</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1025"/>
+</xml><![endif]-->
+</head>
+
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1296 style='border-collapse:collapse;table-layout:fixed;width:972pt'>
+ <col width=70 span=3 style='mso-width-source:userset;mso-width-alt:2240'>
+ <col width=100 style='mso-width-source:userset;mso-width-alt:3200'>
+ <col width=70 span=8 style='mso-width-source:userset;mso-width-alt:2240'>
+ <col width=50 span=2 style='mso-width-source:userset;mso-width-alt:1600'>
+ <col width=70 style='mso-width-source:userset;mso-width-alt:2240'>
+ <tr style='mso-height-source:userset;height:30.00pt'>
+  <td colspan=15 class=xl30  style='border-bottom:.5pt solid black;border-top:none;' >
+每周考勤明细表</td>
+ </tr>
+ <tr style='mso-height-source:userset;height:15.00pt'>
+  <td rowspan=2 class=xl32  style='border-bottom:.5pt solid black;border-top:none;' >
+序号</td>
+  <td rowspan=2 class=xl32  style='border-bottom:.5pt solid black;border-top:none;' >
+单位</td>
+  <td rowspan=2 class=xl32  style='border-bottom:.5pt solid black;border-top:none;' >
+姓名</td>
+  <td rowspan=2 class=xl32  style='border-bottom:.5pt solid black;border-top:none;' >
+人员编号</td>
+  <td rowspan=2 class=xl32  style='border-bottom:.5pt solid black;border-top:none;' >
+上班<br>下班</td>
+  <td colspan=7 class=xl32  style='border-bottom:.5pt solid black;border-top:none;' >
+星期</td>
+  <td rowspan=2 class=xl32  style='border-bottom:.5pt solid black;border-top:none;' >
+正常<br>出勤</td>
+  <td rowspan=2 class=xl32  style='border-bottom:.5pt solid black;border-top:none;' >
+异常<br>出勤</td>
+  <td rowspan=2 class=xl32  style='border-bottom:.5pt solid black;border-top:none;' >
+班制</td>
+ </tr>
+ <tr style='mso-height-source:userset;height:14.25pt'>
+  <td class=xl24  style='border-bottom:.5pt solid black;border-top:none;' x:num>
+1</td>
+  <td class=xl24  style='border-bottom:.5pt solid black;border-top:none;' x:num>
+2</td>
+  <td class=xl24  style='border-bottom:.5pt solid black;border-top:none;' x:num>
+3</td>
+  <td class=xl24  style='border-bottom:.5pt solid black;border-top:none;' x:num>
+4</td>
+  <td class=xl24  style='border-bottom:.5pt solid black;border-top:none;' x:num>
+5</td>
+  <td class=xl24  style='border-bottom:.5pt solid black;border-top:none;' x:num>
+6</td>
+  <td class=xl24  style='border-bottom:.5pt solid black;border-top:none;' x:num>
+日</td>
+ </tr>
+ <tr style='mso-height-source:userset;height:14.25pt'>
+  <td rowspan=3 class=xl38  style='border-bottom:2.0pt double black;border-top:none;' x:num>
+1</td>
+  <td rowspan=3 class=xl38  style='border-bottom:2.0pt double black;border-top:none;' >
+部门X</td>
+  <td rowspan=3 class=xl38  style='border-bottom:2.0pt double black;border-top:none;' >
+卡咯</td>
+  <td rowspan=3 class=xl38  style='border-bottom:2.0pt double black;border-top:none;' >
+SF67PK35</td>
+  <td class=xl25  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+上班</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+8:00</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+8:00</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+8:00</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+8:00</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+8:00</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+8:00</td>
+  <td class=xl27  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+8:00</td>
+  <td rowspan=3 class=xl38  style='border-bottom:2.0pt double black;border-top:none;' >
+</td>
+  <td rowspan=3 class=xl38  style='border-bottom:2.0pt double black;border-top:none;' >
+</td>
+  <td rowspan=3 class=xl38  style='border-bottom:2.0pt double black;border-top:none;' >
+24小时</td>
+ </tr>
+ <tr style='mso-height-source:userset;height:14.25pt'>
+  <td class=xl25  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+下班</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+20:00</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+20:00</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+20:00</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+20:00</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+20:00</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+20:00</td>
+  <td class=xl27  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+20:00</td>
+ </tr>
+ <tr style='mso-height-source:userset;height:14.25pt'>
+  <td class=xl25  style='border-bottom:2.0pt double black;border-top:none;' x:str>
+工时</td>
+  <td class=xl29  style='border-bottom:4.0pt double black;border-top:none;' x:str>
+12:00</td>
+  <td class=xl29  style='border-bottom:4.0pt double black;border-top:none;' x:str>
+12:00</td>
+  <td class=xl29  style='border-bottom:4.0pt double black;border-top:none;' x:str>
+12:00</td>
+  <td class=xl29  style='border-bottom:4.0pt double black;border-top:none;' x:str>
+12:00</td>
+  <td class=xl29  style='border-bottom:4.0pt double black;border-top:none;' x:str>
+12:00</td>
+  <td class=xl29  style='border-bottom:4.0pt double black;border-top:none;' x:str>
+12:00</td>
+  <td class=xl29  style='border-bottom:4.0pt double black;border-top:none;' x:str>
+12:00</td>
+ </tr>
+ <tr style='mso-height-source:userset;height:14.25pt'>
+  <td rowspan=3 class=xl38  style='border-bottom:2.0pt double black;border-top:none;' x:num>
+2</td>
+  <td rowspan=3 class=xl38  style='border-bottom:2.0pt double black;border-top:none;' >
+部门Q</td>
+  <td rowspan=3 class=xl38  style='border-bottom:2.0pt double black;border-top:none;' >
+乎东</td>
+  <td rowspan=3 class=xl38  style='border-bottom:2.0pt double black;border-top:none;' >
+GT54BE96</td>
+  <td class=xl25  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+上班</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+7:00</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+7:00</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+7:00</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+7:00</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+7:00</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+7:00</td>
+  <td class=xl27  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+7:00</td>
+  <td rowspan=3 class=xl38  style='border-bottom:2.0pt double black;border-top:none;' >
+</td>
+  <td rowspan=3 class=xl38  style='border-bottom:2.0pt double black;border-top:none;' >
+</td>
+  <td rowspan=3 class=xl38  style='border-bottom:2.0pt double black;border-top:none;' >
+24小时</td>
+ </tr>
+ <tr style='mso-height-source:userset;height:14.25pt'>
+  <td class=xl25  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+下班</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+19:10</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+19:10</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+19:10</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+19:10</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+19:10</td>
+  <td class=xl26  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+19:10</td>
+  <td class=xl27  style='border-bottom:.5pt solid black;border-top:none;' x:str>
+19:10</td>
+ </tr>
+ <tr style='mso-height-source:userset;height:14.25pt'>
+  <td class=xl25  style='border-bottom:2.0pt double black;border-top:none;' x:str>
+工时</td>
+  <td class=xl29  style='border-bottom:4.0pt double black;border-top:none;' x:str>
+12:10</td>
+  <td class=xl29  style='border-bottom:4.0pt double black;border-top:none;' x:str>
+12:10</td>
+  <td class=xl29  style='border-bottom:4.0pt double black;border-top:none;' x:str>
+12:10</td>
+  <td class=xl29  style='border-bottom:4.0pt double black;border-top:none;' x:str>
+12:10</td>
+  <td class=xl29  style='border-bottom:4.0pt double black;border-top:none;' x:str>
+12:10</td>
+  <td class=xl29  style='border-bottom:4.0pt double black;border-top:none;' x:str>
+12:10</td>
+  <td class=xl29  style='border-bottom:4.0pt double black;border-top:none;' x:str>
+12:10</td>
+ </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,132 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  main.cpp
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(51,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(53,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(77,16): error C3688: 文本后缀“BDR_SOLID”无效；未找到文文本运算符或文本运算符模板“operator """"BDR_SOLID”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(77,16): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(77,16): error C2661: “generate_excel::gen_excel_file::fill_cell”: 没有重载函数接受 1 个参数
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(77,16): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(77,77): error C2059: 语法错误:“)”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(82,16): error C3688: 文本后缀“BDR_SOLID”无效；未找到文文本运算符或文本运算符模板“operator """"BDR_SOLID”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(82,16): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(82,16): error C2661: “generate_excel::gen_excel_file::fill_cell”: 没有重载函数接受 1 个参数
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(82,16): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(82,61): error C2059: 语法错误:“)”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(83,16): error C3688: 文本后缀“BDR_SOLID”无效；未找到文文本运算符或文本运算符模板“operator """"BDR_SOLID”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(83,16): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(83,16): error C2661: “generate_excel::gen_excel_file::fill_cell”: 没有重载函数接受 1 个参数
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(83,16): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(83,61): error C2059: 语法错误:“)”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(84,16): error C3688: 文本后缀“BDR_SOLID”无效；未找到文文本运算符或文本运算符模板“operator """"BDR_SOLID”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(84,16): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(84,16): error C2661: “generate_excel::gen_excel_file::fill_cell”: 没有重载函数接受 1 个参数
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(84,16): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(84,61): error C2059: 语法错误:“)”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(85,16): error C3688: 文本后缀“BDR_SOLID”无效；未找到文文本运算符或文本运算符模板“operator """"BDR_SOLID”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(85,16): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(85,16): error C2661: “generate_excel::gen_excel_file::fill_cell”: 没有重载函数接受 1 个参数
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(85,16): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(85,67): error C2059: 语法错误:“)”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(86,16): error C3688: 文本后缀“BDR_SOLID”无效；未找到文文本运算符或文本运算符模板“operator """"BDR_SOLID”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(86,16): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(86,16): error C2661: “generate_excel::gen_excel_file::fill_cell”: 没有重载函数接受 1 个参数
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(86,16): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(86,71): error C2059: 语法错误:“)”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(87,16): error C3688: 文本后缀“BDR_SOLID”无效；未找到文文本运算符或文本运算符模板“operator """"BDR_SOLID”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(87,16): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(87,16): error C2661: “generate_excel::gen_excel_file::fill_cell”: 没有重载函数接受 1 个参数
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(87,16): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(87,61): error C2059: 语法错误:“)”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(88,16): error C3688: 文本后缀“BDR_SOLID”无效；未找到文文本运算符或文本运算符模板“operator """"BDR_SOLID”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(88,16): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(88,16): error C2661: “generate_excel::gen_excel_file::fill_cell”: 没有重载函数接受 1 个参数
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(88,16): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(88,71): error C2059: 语法错误:“)”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(89,16): error C3688: 文本后缀“BDR_SOLID”无效；未找到文文本运算符或文本运算符模板“operator """"BDR_SOLID”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(89,16): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(89,16): error C2661: “generate_excel::gen_excel_file::fill_cell”: 没有重载函数接受 1 个参数
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(89,16): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(89,71): error C2059: 语法错误:“)”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(90,16): error C3688: 文本后缀“BDR_SOLID”无效；未找到文文本运算符或文本运算符模板“operator """"BDR_SOLID”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(90,16): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(90,16): error C2661: “generate_excel::gen_excel_file::fill_cell”: 没有重载函数接受 1 个参数
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(90,16): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(90,61): error C2059: 语法错误:“)”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(126,17): error C3688: 文本后缀“BDR_DOUBLE”无效；未找到文文本运算符或文本运算符模板“operator """"BDR_DOUBLE”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(126,17): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(126,17): error C2661: “generate_excel::gen_excel_file::fill_cell”: 没有重载函数接受 1 个参数
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(126,17): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(126,64): error C2059: 语法错误:“)”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(127,17): error C3688: 文本后缀“BDR_DOUBLE”无效；未找到文文本运算符或文本运算符模板“operator """"BDR_DOUBLE”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(127,17): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(127,17): error C2661: “generate_excel::gen_excel_file::fill_cell”: 没有重载函数接受 1 个参数
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(127,17): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(127,87): error C2059: 语法错误:“)”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(128,17): error C3688: 文本后缀“BDR_DOUBLE”无效；未找到文文本运算符或文本运算符模板“operator """"BDR_DOUBLE”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(128,17): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(128,17): error C2661: “generate_excel::gen_excel_file::fill_cell”: 没有重载函数接受 1 个参数
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(128,17): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(128,87): error C2059: 语法错误:“)”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(129,17): error C3688: 文本后缀“BDR_DOUBLE”无效；未找到文文本运算符或文本运算符模板“operator """"BDR_DOUBLE”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(129,17): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(129,17): error C2661: “generate_excel::gen_excel_file::fill_cell”: 没有重载函数接受 1 个参数
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(129,17): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(129,85): error C2059: 语法错误:“)”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(131,17): error C3688: 文本后缀“BDR_SOLID”无效；未找到文文本运算符或文本运算符模板“operator """"BDR_SOLID”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(131,17): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(131,17): error C2661: “generate_excel::gen_excel_file::fill_cell”: 没有重载函数接受 1 个参数
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(131,17): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(131,66): error C2059: 语法错误:“)”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(138,19): error C3688: 文本后缀“BDR_SOLID”无效；未找到文文本运算符或文本运算符模板“operator """"BDR_SOLID”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(138,19): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(138,19): error C2661: “generate_excel::gen_excel_file::fill_cell”: 没有重载函数接受 1 个参数
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(138,19): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(138,101): error C2059: 语法错误:“)”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(139,4): error C2181: 没有匹配 if 的非法 else
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(140,19): error C3688: 文本后缀“BDR_SOLID”无效；未找到文文本运算符或文本运算符模板“operator """"BDR_SOLID”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(140,19): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(140,19): error C2661: “generate_excel::gen_excel_file::fill_cell”: 没有重载函数接受 1 个参数
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(140,19): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(140,101): error C2059: 语法错误:“)”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(145,17): error C3688: 文本后缀“BDR_DOUBLE”无效；未找到文文本运算符或文本运算符模板“operator """"BDR_DOUBLE”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(145,17): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(145,17): error C2661: “generate_excel::gen_excel_file::fill_cell”: 没有重载函数接受 1 个参数
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(145,17): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(145,58): error C2059: 语法错误:“)”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(146,17): error C3688: 文本后缀“BDR_DOUBLE”无效；未找到文文本运算符或文本运算符模板“operator """"BDR_DOUBLE”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(146,17): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(146,17): error C2661: “generate_excel::gen_excel_file::fill_cell”: 没有重载函数接受 1 个参数
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(146,17): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(146,58): error C2059: 语法错误:“)”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(147,17): error C3688: 文本后缀“BDR_DOUBLE”无效；未找到文文本运算符或文本运算符模板“operator """"BDR_DOUBLE”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(147,17): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(147,17): error C2661: “generate_excel::gen_excel_file::fill_cell”: 没有重载函数接受 1 个参数
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(147,17): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(147,86): error C2059: 语法错误:“)”
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\main.cpp(147,86): fatal error C1003: 错误计数超过 100；正在停止编译
+  input_data.cpp
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\include\input_data.h(19,20): error C3646: “depart_name”: 未知重写说明符
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\include\input_data.h(19,20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\include\input_data.h(20,20): error C3646: “person_name”: 未知重写说明符
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\include\input_data.h(20,20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\include\input_data.h(21,18): error C3646: “person_sn”: 未知重写说明符
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\include\input_data.h(21,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\include\input_data.h(23,19): error C3646: “class_type”: 未知重写说明符
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\include\input_data.h(23,19): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\input_data.cpp(17,28): error C2039: "depart_name": 不是 "person_attend_data" 的成员
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\include\input_data.h(17): message : 参见“person_attend_data”的声明
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\input_data.cpp(18,28): error C2039: "person_name": 不是 "person_attend_data" 的成员
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\include\input_data.h(17): message : 参见“person_attend_data”的声明
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\input_data.cpp(19,26): error C2039: "person_sn": 不是 "person_attend_data" 的成员
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\include\input_data.h(17): message : 参见“person_attend_data”的声明
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\input_data.cpp(20,27): error C2039: "class_type": 不是 "person_attend_data" 的成员
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\include\input_data.h(17): message : 参见“person_attend_data”的声明
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\input_data.cpp(34,28): error C2039: "depart_name": 不是 "person_attend_data" 的成员
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\include\input_data.h(17): message : 参见“person_attend_data”的声明
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\input_data.cpp(35,28): error C2039: "person_name": 不是 "person_attend_data" 的成员
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\include\input_data.h(17): message : 参见“person_attend_data”的声明
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\input_data.cpp(36,26): error C2039: "person_sn": 不是 "person_attend_data" 的成员
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\include\input_data.h(17): message : 参见“person_attend_data”的声明
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\cpp\input_data.cpp(37,27): error C2039: "class_type": 不是 "person_attend_data" 的成员
+C:\Users\Administrator\Downloads\generate_excel\generate_excel\include\input_data.h(17): message : 参见“person_attend_data”的声明
+  正在生成代码...
